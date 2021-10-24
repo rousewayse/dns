@@ -1,6 +1,10 @@
 # DNS-резолвер
 ## Для проверки работоспособности можно ввести следующие команды:
-````  npm i 
+````  
+  npm i 
   sudo node dns.js
+````
   в другом терминале
-  dig @localhost vk.com ````
+````
+  dig @localhost vk.com 
+````
