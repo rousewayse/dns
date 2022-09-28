@@ -1,11 +1,11 @@
 # DNS-resolver
 
-## Для проверки работоспособности можно ввести следующие команды:
+## Installation + running
 ````  
   npm i 
   sudo node dns.js
 ````
-  в другом терминале
+## Testing
 ````
   dig @localhost vk.com 
 ````
