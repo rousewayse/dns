@@ -108,4 +108,4 @@ server.on('listening',function(){
   console.log('Server is listening at port ' + port);
 });
 
-server.bind(53)
+server.bind(port)
